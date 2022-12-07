@@ -461,8 +461,6 @@ DesignationSystem.centralPacific = new DesignationSystem({
 DesignationSystem.southTirias = new DesignationSystem({
     displayName: 'South Tirias Board of Weather',
     suffix: 'ST',
-    anchor: 1979,
-    annual: false,
     mainLists: [
         ["Alex","Bernice","Colin","Diane","Earl","Fiona","George","Hannah","Ian","Juliette","Kyle","Luane","Morris","Nina","Osman","Preston","Roy","Sylvia","Trey","Victoria","William"],
         ["Anna","Bernice","Chloe","Devin","Emma","Frank","Gilma","Harold","Irma","Julian","Katheryn","Lewis","Maxi","Noah","Olivia","Patrick","Rachel","Sylvester","Tanya","Victor","Wilma"],
@@ -486,7 +484,7 @@ DesignationSystem.westernPacific = new DesignationSystem({
 
 DesignationSystem.northTirias = new DesignationSystem({
     displayName: 'North Tirias Ocean Cyclone Warning Center ',
-    suffix: 'ST',
+    suffix: 'NT',
     anchor: 1979,
     annual: true,
     mainLists: [
