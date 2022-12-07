@@ -423,9 +423,9 @@ UI.init = function(){
         noStroke();
         textAlign(CENTER,CENTER);
         textSize(36);
-        text(TITLE,0,0);
+        text("Cyclone Simulator but Poxy Killed it",0,0);
         textSize(18);
-        textStyle(BOLD);
+        textStyle(ITALIC);
         text("Simulate your own monster storms, or try if you can, because I just might butcher this game!",0,40);
     });
 
