@@ -468,7 +468,7 @@ DesignationSystem.easternPacific = new DesignationSystem({
         ["Albert","Bella","Calvin","Debbie","Ethan","Freida","Greg","Hilda","Ivan","Julia","Kenny","Lorena","Mark","Nellie","Oliver","Pamela","Raymond","Sophie","Timothy","Valeria","Wilifred"],
         ["Allie","Benjamin","Chance","Daniel","Edith","Finnegan","Gina","Hector","Ilania","Josh","Kylie","Liam","Mary","Norman","Olive","Phil","Ray","Steven","Tina","Vaughn","Wendy"],
         ["Andrew","Beryl","Carl","Daniela","Edgar","Franny","Gale","Hope","Isaac","Johanna","Kris","Leona","Micheal","Nora","Omar","Paula","Rene","Sally","Tomas","Vora","Will"],
-        ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","V","W"],
+        ["Agnes","Brian","Christina","David","Elena","Fred","Gianna","Hiro","Ingrid","Josef","Katie","Leon","Martin","Nelson","Opal","Pablo","Regina","Sam","Tasha","Vixon","Winona"],
     ]
 });
 DesignationSystem.westernPacific = new DesignationSystem({
