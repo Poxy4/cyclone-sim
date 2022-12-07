@@ -424,9 +424,9 @@ UI.init = function(){
         textAlign(CENTER,CENTER);
         textSize(36);
         text(TITLE,0,0);
-        textSize(18);
+        textSize(14);
         textStyle(ITALIC);
-        text("Simulate your own monster storms, or try if you can, because I jsut might butcher this game!",0,40);
+        text("Simulate your own monster storms, or try if you can, because I just might butcher this game!",0,40);
     });
 
     mainMenu.append(false,WIDTH/2-100,HEIGHT/2-20,200,40,function(s){    // "New Basin" button
