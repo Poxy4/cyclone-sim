@@ -424,8 +424,8 @@ UI.init = function(){
         textAlign(CENTER,CENTER);
         textSize(36);
         text(TITLE,0,0);
-        textSize(14);
-        textStyle(ITALIC);
+        textSize(18);
+        textStyle(BOLD);
         text("Simulate your own monster storms, or try if you can, because I just might butcher this game!",0,40);
     });
 
