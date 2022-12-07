@@ -667,5 +667,7 @@ DesignationSystem.presetDesignationSystems = [
     DesignationSystem.australianRegionPortMoresby,
     DesignationSystem.atlantic1979,
     DesignationSystem.periodicTable,
-    DesignationSystem.periodicTableAnnual
+    DesignationSystem.periodicTableAnnual,
+    DesignationSystem.northTirias,
+    DesignationSystem.southTirias
 ];
