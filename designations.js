@@ -458,6 +458,19 @@ DesignationSystem.centralPacific = new DesignationSystem({
     ]
 });
 
+DesignationSystem.easternPacific = new DesignationSystem({
+    displayName: 'South Tirias Board of Weather',
+    suffix: 'ST',
+    anchor: 1979,
+    mainLists: [
+        ["Alex","Bernice","Colin","Diane","Earl","Fiona","George","Hannah","Ian","Juliette","Kyle","Luane","Morris","Nina","Osman","Preston","Roy","Sylvia","Trey","Victoria","William"],
+        ["Anna","Bernice","Chloe","Devin","Emma","Frank","Gilma","Harold","Irma","Julian","Katheryn","Lewis","Maxi","Noah","Olivia","Patrick","Rachel","Sylvester","Tanya","Victor","Wilma"],
+        ["Albert","Bella","Calvin","Debbie","Ethan","Freida","Greg","Hilda","Ivan","Julia","Kenny","Lorena","Mark","Nellie","Oliver","Pamela","Raymond","Sophie","Timothy","Valeria","Wilifred"],
+        ["Allie","Benjamin","Chance","Daniel","Edith","Finnegan","Gina","Hector","Ilania","Josh","Kylie","Liam","Mary","Norman","Olive","Phil","Ray","Steven","Tina","Vaughn","Wendy"],
+        ["Andrew","Beryl","Carl","Daniela","Edgar","Franny","Gale","Hope","Isaac","Johanna","Kris","Leona","Micheal","Nora","Omar","Paula","Rene","Sally","Tomas","Vora","Will"],
+        ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","V","W"],
+    ]
+});
 DesignationSystem.westernPacific = new DesignationSystem({
     displayName: 'Western Pacific',
     suffix: 'W',
@@ -467,6 +480,24 @@ DesignationSystem.westernPacific = new DesignationSystem({
         ["Nakri","Fengshen","Kalmaegi","Fung-wong","Koto","Nokaen","Penha","Nuri","Sinlaku","Hagupit","Jangmi","Mekkhala","Higos","Bavi","Maysak","Haishen","Noul","Dolphin","Kujira","Chan-hom","Peilou","Nangka","Saudel","Narra","Gaenari","Atsani","Etau","Bang-lang"],
         ["Krovanh","Dujuan","Surigae","Choi-wan","Koguma","Champi","In-fa","Cempaka","Nepartak","Lupit","Mirinae","Nida","Omais","Conson","Chanthu","Dianmu","Mindulle","Lionrock","Kompasu","Namtheun","Malou","Nyatoh","Rai","Malakas","Megi","Chaba","Aere","Songda"],
         ["Trases","Mulan","Meari","Ma-on","Tokage","Hinnamnor","Muifa","Merbok","Nanmadol","Talas","Noru","Kulap","Roke","Sonca","Nesat","Haitang","Nalgae","Banyan","Yamaneko","Pakhar","Sanvu","Mawar","Guchol","Talim","Doksuri","Khanun","Lan","Saola"]
+    ]
+    });
+
+DesignationSystem.easternPacific = new DesignationSystem({
+    displayName: 'North Tirias Ocean Cyclone Warning Center ',
+    suffix: 'ST',
+    anchor: 1979,
+    annual: true,
+    mainLists: [
+        ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","V","W"],
+        ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","V","W"],
+        ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","V","W"],
+        ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","V","W"],
+        ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","V","W"],
+        ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","V","W"],
+    ],
+    auxLists: [
+        ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","V","W"],
     ]
 });
 
